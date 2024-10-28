@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Harry-Potter-Characters-ReactApp/static/css/main.6fe32a00.css",
+    "main.js": "/Harry-Potter-Characters-ReactApp/static/js/main.fce89482.js",
+    "static/js/453.1b274ef6.chunk.js": "/Harry-Potter-Characters-ReactApp/static/js/453.1b274ef6.chunk.js",
+    "static/media/harry_bg.jpg": "/Harry-Potter-Characters-ReactApp/static/media/harry_bg.72c7cbf00a2d5bf603c8.jpg",
+    "index.html": "/Harry-Potter-Characters-ReactApp/index.html",
+    "main.6fe32a00.css.map": "/Harry-Potter-Characters-ReactApp/static/css/main.6fe32a00.css.map",
+    "main.fce89482.js.map": "/Harry-Potter-Characters-ReactApp/static/js/main.fce89482.js.map",
+    "453.1b274ef6.chunk.js.map": "/Harry-Potter-Characters-ReactApp/static/js/453.1b274ef6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe32a00.css",
+    "static/js/main.fce89482.js"
+  ]
+}
